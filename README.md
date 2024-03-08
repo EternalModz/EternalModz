@@ -13,12 +13,11 @@ Hey there! I'm the creative force known as EternalModz, exploring the vast unive
 - 💻 Game Development
 - 🛠️ Software Engineering
 - 🎨 UI/UX/GUI Design
-- 🚀 Anything related to video games and content creation
+- 🚀 Anything related to video games and content creation.
 
 ## 🌈 Current Learning Journey
 
-- 🚀 Mastering C++ like a coding wizard
-- ☕ Sipping on the essence of Java
+- 🚀 Learning C++, Java & Rust.
 
 ## 🌟 Collaboration Opportunities
 
