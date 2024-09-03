@@ -30,7 +30,7 @@ I'm open to innovative and creative collaborations. Let's create something extra
 
 ## Connect
 
-<a href="https://www.youtube.com/c/EternalModzLive" target="_blank">
+<a href="https://www.youtube.com/@EternalModzLive" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-EternalModzLive-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 <a href="https://bio.link/EternalModz" target="_blank">
