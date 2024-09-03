@@ -1,29 +1,36 @@
-# 👾 Welcome to the Realm of @EternalModz! 🚀
+# EternalModz's Profile
 
-Hey there! I'm the creative force known as EternalModz, exploring the vast universe of technology and gaming. 🎮✨
+## About Me
 
-## 🚀 Check Out My Galactic Tech Stack!
+I'm EternalModz, a designer and college student passionate about technology, gaming, and creative exploration.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EternalModz&layout=compact&theme=radical)](https://github.com/EternalModz)
+&nbsp;
 
-![EternalModz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EternalModz&show_icons=true&theme=radical)
+## Interests & Expertise
 
-## 🌌 Interests & Expertise
+- Game Development
+- Software Engineering
+- UI/UX/GUI Design
+- Video Games & Content Creation
 
-- 💻 Game Development
-- 🛠️ Software Engineering
-- 🎨 UI/UX/GUI Design
-- 🚀 Anything related to video games and content creation.
+## Current Learning Journey
 
-## 🌈 Current Learning Journey
+- Expanding skills in C++, Java, and Rust.
 
-- 🚀 Learning C++, Java & Rust.
+## Collaboration
 
-## 🌟 Collaboration Opportunities
+I'm open to innovative and creative collaborations. Let's create something extraordinary together.
 
-I'm open to collaborating on anything that sparks creativity and innovation! Let's build something extraordinary together. 💞
+## Connect
 
-## 📬 Connect with Me
+[![YouTube](https://img.shields.io/badge/YouTube-EternalModzLive-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/EternalModzLive)
+[![Links](https://img.shields.io/badge/Links-EternalModz-blue?style=for-the-badge&logo=link&logoColor=white)](https://bio.link/EternalModz)
 
-- [YouTube](https://www.youtube.com/c/EternalModzLive)
-- [Other Social Media](https://bio.link/EternalModz)
+## Tech Stack
+
+<a href="https://github.com/EternalModz">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=EternalModz&show_icons=true&theme=onedark&hide_border=true&bg_color=0d1117&title_color=f0db4f&icon_color=4caf50&text_color=ffffff" />
+</a>
+<a href="https://github.com/EternalModz">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalModz&layout=compact&theme=onedark&hide_border=true&bg_color=0d1117&title_color=f0db4f&icon_color=4caf50&text_color=ffffff" />
+</a>
