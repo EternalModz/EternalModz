@@ -3,6 +3,10 @@
 
 I'm EternalModz, a designer and college student passionate about technology, gaming, and creative exploration.
 
+# Live Discord Status
+
+![Discord](https://discord-readme-badge.vercel.app/api?id=907786149429403699)
+
 ## Tech Stack
 
 <a href="https://github.com/EternalModz">
