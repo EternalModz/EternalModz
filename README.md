@@ -1,7 +1,7 @@
 # EternalModz's Profile
 ## About Me
 
-I'm EternalModz, a designer and college student passionate about technology, gaming, and creative exploration.
+I'm EternalModz, a legally blind graphic designer and college student passionate about technology, gaming, and creative exploration.
 
 # Live Discord Status
 
@@ -26,17 +26,9 @@ I'm EternalModz, a designer and college student passionate about technology, gam
 
 ## Current Learning Journey
 
-- Expanding skills in C++, Java, and Rust.
-
-## Collaboration
-
-I'm open to innovative and creative collaborations. Let's create something extraordinary together.
+- Expanding skills in C++, Java, and Rust. I'm open to working on projects together!
 
 ## Connect
 
-<a href="https://www.youtube.com/@EternalModzLive" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-EternalModzLive-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-<a href="https://bio.link/EternalModz" target="_blank">
-  <img src="https://img.shields.io/badge/Links-EternalModz-blue?style=for-the-badge&logo=link&logoColor=white" alt="Links">
-</a>
+[![YouTube](https://img.shields.io/badge/YouTube-EternalModzLive-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EternalModzLive)
+[![Links](https://img.shields.io/badge/Bio-Link-0A66C2?style=for-the-badge&logo=linktree&logoColor=white)](https://bio.link/EternalModz)
